@@ -14,7 +14,7 @@ frontend/
 ```bash
 cd backend
 npm install
-cp .env.example .env
+
 # set MONGODB_URI, JWT_SECRET, CORS_ORIGIN,
 npm run dev
 ```
@@ -24,6 +24,6 @@ npm run dev
 ```bash
 cd frontend
 npm install
-cp .env.example .env
+
 npm run dev
 ```
