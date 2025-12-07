@@ -6,6 +6,40 @@
 backend/
 frontend/
 ```
+---
+
+## To Clone this Repository
+
+You need to write the following commands on the terminal screen(in vscode) so that you can run this project locally.
+
+```bash
+  git clone "https://github.com/RohitSharma50/auto-gmailer"
+```
+
+Go to the project directory
+
+```bash
+    cd auto-gmailer
+```
+
+```bash
+    cd frontend
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
+
+---
+
 
 ## Run locally
 
